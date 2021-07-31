@@ -2,9 +2,17 @@
 
 ## Outcomes
 
-Be sure to review the [Homework Guide](./Homework-Guide/README.md) before you start working on this assignment! This week is an odd-numbered week, so your homework is an on-the-job ticket&mdash;meaning that you'll begin with starter code that you need to modify. 
 
-**Refactoring** existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers. For this particular homework assignment, a marketing agency has hired you to refactor an existing site to make it more accessible. 
+
+**Alt Text Additions** Alternative text has been added to images, to allow for better search engine optimization. Alt text also ensures that visually impaired users are able to interact with media as presented, allowing all users to utilize the webportal with efficacy. 
+
+![example of alt text additions](https://github.com/gabejklotz/horiseon-refactoring/blob/main/assets/images/alt-text-example.jpg)
+
+**Semantic HTML Additions**  Semantic HTML elements have been added, allowing other programmers to more easily distinguish meaningful sections. This addition also assists in search engine optimization, as search engines are more easily able to 'read' the contents of the webpage.  
+
+**Title Addition** Addition of a meaningful title, allowing the webportal to have a more holistic and internally consistent appearance.
+
+**Heading Attributes Ordered** Heading attributes are used in the appropriate manner, allowing other programmers to make meaningful distincions between h1-h3 HTML elements. 
 
 > **Important**: When working with someone else's code, you should adhere to the **Scout Rule**&mdash;always leave the code a little cleaner than when you found it.
 
